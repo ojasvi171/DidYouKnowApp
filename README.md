@@ -18,8 +18,8 @@ A lightweight Android quiz app built with Java. Test your trivia knowledge in 4 
 2. Open in Android Studio.
 3. Build/run on emulator or device.
 
-Contributing
-Improvements welcome! Please:
+## Contributing
+-Improvements welcome! Please:
 ✅ Keep core quiz flow intact
 ✅ Maintain Java compatibility
 ❌ Avoid major UI overhauls
